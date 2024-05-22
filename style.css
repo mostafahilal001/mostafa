@@ -1,0 +1,52 @@
+
+body{
+    color:rgb(153, 61, 51);
+}
+h1{
+    text-align: center;
+  
+}
+div{
+    text-align: center;
+    
+}
+.p_1{
+    border: 2px solid brown;
+    padding: 20px;
+    border-top-left-radius: 10px;
+     border-bottom-right-radius: 10px;
+     background-color: aquamarine;
+    
+    
+}
+.p_10:hover{
+    transition :1s linear;
+    background-color: brown;
+    border-radius: 20px;
+    cursor: pointer;
+
+}
+.p_2{
+    cursor: pointer;
+}
+.cr7{
+    width: 200 px;
+    height: 200 px;
+    background-color:aquamarine;
+    text-align: center;
+    border: 2px;
+    border: 2px solid brown;
+    padding: 20px;
+    border-top-right-radius: 10px ;
+    border-bottom-left-radius: 10px ;
+
+}
+.p_4:hover{
+    border-radius: 50%;
+    transition: 1s linear;
+    cursor:progress;
+    background-color: brown;
+}
+.p_3{
+    cursor: pointer;
+}
